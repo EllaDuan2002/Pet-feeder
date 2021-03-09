@@ -1,6 +1,6 @@
 # Pet-feeder
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.For more information, please check Tuya Developer Website.
-# CH：
+
 ## 一、方案标题
 家用宠物喂食器
 
