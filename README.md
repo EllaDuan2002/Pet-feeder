@@ -40,7 +40,6 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 喂食结果上报
 
-
 粮桶余粮
 
 余粮重量
@@ -53,66 +52,29 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 ## 三、开发计划
 6月25前完成
-* 1）4月1前准备物料
-* 2）4月1日-5月1日学习相关内容
-* 3）5月1日-6月15日 开发
-* 4）6月15日-6月5日 调试
+### 一期开发
+出粮校准
+余粮校准
+出粮校准状态
 
 
-# EN
-## 1. Project Title
-Household pet feeder
-
-## Two, program application scenarios
-#### Location:
-Home foyer
-#### Features:
-Mobile Bluetooth WiFi remote control
-
-Through the one-way valve design, prevent pet brains from stealing food
-
-Fast feeding
-
-Manual feeding
-
-Feeding state
-
-Unit conversion
-
-Slow feeding
-
-Grain calibration
-
-Surplus calibration
-
-Restore Factory
-
-Grain calibration status
-
-battery power
-
-charging
-
-Feeding lid state
-
-Fault alarm
-
-Reporting of feeding results
+快速喂食
+手动喂食
+喂食状态
+单位转换
+慢放喂食
 
 
-Grain bucket surplus
+电池电量
+充电状态
+喂食盖状态
+故障告警
+喂食结果上报
 
-Weight of surplus
+* 1）3月20前准备物料
+* 2）3月21日-4月21日 嵌入式硬件开发
+* 3）4月21日-5月10日 调试
+### 二期开发
+语音播放次数（远程）  小夜灯（远程）  开关（远程） 余粮重量 粮桶余粮上报（远程）
+* 4）4月22日-5月25日 开发+调试
 
-Voice plays
-
-Night light
-
-switch
-
-## Three, development plan
-Complete before June 25
-* 1) Prepare materials before April 1
-* 2) Learn related content from April 1st to May 1st
-* 3) Developed from May 1st to June 15th
-* 4) Commissioning from June 15th to June 5th
